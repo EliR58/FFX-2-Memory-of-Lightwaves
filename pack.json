@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "FFX-2 Memory of Lightwaves",
+  "description": "Music - Memory of Lightwaves | FFX-2 Title Theme",
+  "author": "EllieGoSkrrt",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
